@@ -1,0 +1,13 @@
+{
+  "id": "microsofttodo",
+  "name": "Microsoft To-Do",
+  "version": "1.0.0",
+  "description": "From work to play, To-Do is the easiest way to get stuff done, every day.",
+  "main": "index.js",
+  "author": "João Fernandes <joaovitorfernandes2@gmail.com>",
+  "license": "GPL-3.0",
+  "config": {
+    "serviceURL": "https://todo.microsoft.com",
+    "hasNotificationSound": true
+  }
+}
